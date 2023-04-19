@@ -1,0 +1,300 @@
+ /* Main */
+
+body {
+    margin-bottom: 0;
+    padding: 0;
+    background-color: #eff5f5;
+}
+
+/* Landing Page */
+
+.Top {
+    background-color: #761B18;
+}
+
+.Title-main {
+    color: #eff5f5;
+    margin: 0;
+    padding-top: 3.5rem;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    font-family: 'Prata', serif;
+    font-weight: 10;
+    font-size: 6rem;
+    text-align: center;
+    letter-spacing: 0.25rem;
+}
+
+.Title-text {
+    color: #eff5f5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    padding-left: .5rem;
+    line-height: 1.5;
+}
+
+.title-tr {
+    position: relative;
+    top: 4rem;
+    right: 3rem;
+}
+
+.title-tr-text {
+    color: #eff5f5;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 140%;
+}
+
+.title-tr-text:hover {
+    color: #7B8FA1;
+}
+
+.title-tr-text:focus {
+    color: #eff5f5;
+}
+
+.Grapes-img {
+    padding-top: 5.5rem;
+    width: 100%;
+    transform: rotate(705deg);
+    position: relative;
+    right: 7.4rem;
+    filter: drop-shadow(10px 10px 5px #181717);
+}
+
+.wine-col {
+    padding: 0;
+}
+
+.Wine-img {
+    width: 115%;
+    float: right;
+    padding-left: 5rem; */
+}
+
+/* Testimonials */
+
+#Testimonials {
+    /* height: 50rem; */
+    background-color: #eff5f5;
+    position: relative;
+    bottom: 10rem;
+    z-index: 1;
+}
+
+.Testimonials-heading {
+    font-family: 'Prata', serif;
+    font-size: 400%;
+    text-align: center;
+    padding-top: 6.5rem;
+}
+
+.c-item {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.testimonials-text {
+    font-size: 2.4rem;
+    width: 75%;
+    margin: auto;
+    padding-bottom: 5rem;
+}
+
+.testimonials-image {
+    border-radius: 100%;
+    width: 15%;
+    padding-bottom: 1rem;
+}
+
+.c-btn {
+    filter: invert(100%);
+}
+
+.hr-tag {
+    position: relative;
+    bottom: 2rem;
+    border-width: .1rem;
+    background-color: #000;
+}
+
+/* Press */
+
+#press {
+    position: relative;
+    bottom: 1rem;
+}
+
+.press-logo {
+    width: 20%;
+    margin: 2.3%;
+}
+
+/* Red Wine */
+
+#Red-Wine {
+    background-color: #761B18;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.rw-head {
+    font-family: 'Prata', serif;
+    font-size: 4rem;
+    color: #eff5f5;
+    padding-top:4rem;
+    padding-left: 6rem;
+}
+
+.rw-row {
+    margin: auto 3rem;
+    padding-top: 7%;
+}
+
+.rw-col {
+    text-align: center;
+}
+
+.rw-wine-img {
+    width: 70%;
+    border: 1rem solid #eff5f5;
+    background-color: #eff5f5;
+    padding: 0;
+}
+
+.rw-price {
+    color: #eff5f5;
+    border: solid;
+    margin: auto 2.5rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    font-size: 120%;
+}
+
+.rw-text {
+    color: #eff5f5;
+    padding-top: 1rem;
+    font-weight: 500;
+    width: 70%;
+    margin: auto;
+}
+
+.rw-buynow {
+    color: #761B18;
+    background-color: #eff5f5;
+    font-size: 140%;
+    width: 70%;
+    margin: 1rem auto;
+    margin-bottom: 4rem;
+}
+
+/* White Wine */
+
+#White-Wine {
+    background-color: #eff5f5;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.ww-head {
+    font-family: 'Prata', serif;
+    font-size: 4rem;
+    color: #000;
+    padding-top:4rem;
+    padding-left: 6rem;
+}
+
+.ww-row {
+    margin: auto 3rem;
+    padding-top: 7%;
+}
+
+.ww-col {
+    text-align: center;
+}
+
+.ww-wine-img {
+    width: 70%;
+    border-top: solid #761B1B;
+    border-right: solid #761B1B;
+    border-left: solid #761B1B;
+    padding: 0;
+}
+
+.ww-price {
+    color: #eff5f5;
+    background-color: #761B18;
+    border: solid #761B18;
+    margin: auto 2.5rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    font-size: 120%;
+}
+
+.ww-text {
+    color: ##000;
+    padding-top: 1rem;
+    font-weight: 500;
+    width: 70%;
+    margin: auto;
+}
+
+.ww-buynow {
+    color: #eff5f5;
+    background-color: #761B18;
+    font-size: 140%;
+    width: 70%;
+    margin: 1rem auto;
+    margin-bottom: 4rem;
+}
+
+/* About Us */
+
+#about-us {
+    background-color: #761B18;
+}
+
+.as-head {
+    color: #eff5f5;
+    display: inline;
+    font-family: 'Prata', serif;
+    font-size: 4rem;
+    padding-top: 3rem;
+    padding-left: 5rem;
+    padding-bottom: 2.5rem;
+}
+
+.as-text {
+    color: #eff5f5;
+    display: inline;
+    font-size: 1.5rem;
+    width: 52.5%;
+    margin: auto 2rem;
+    margin-left: 4rem;
+    word-spacing: 0.05rem;
+    padding-bottom: 0.3rem;
+}
+
+.as-img {
+    width: 35%;
+    filter: saturate(0%) contrast(130%);
+    position: absolute;
+    right: 0%;
+    padding-right: 0;
+}
+
+/* Contact Details */
+
+#footer {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.e-icons {
+    margin: 1rem;
+}
