@@ -1,1 +1,2 @@
-Here is the project link - https://65a0167abec86d0737b52673--cheerful-salamander-030a52.netlify.app/
+<h2>The Winery</h2>
+Welcome to The Winery! It's a minimalist web application designed to showcase a collection of wines available for sale. With a clean and modern user interface, users can effortlessly browse through various wine selections, view detailed product information, and get a glimpse of the available offerings. This project emphasizes intuitive design, a responsive layout, and a button-free interface for seamless browsing. To run locally, clone the repository and open index.html. Contributions are welcome under the MIT License. Inspired by the idea of creating a visually appealing wine selling platform.
